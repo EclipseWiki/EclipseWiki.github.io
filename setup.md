@@ -12,6 +12,11 @@ has_toc: false
 {: .no_toc }
 
 ## Picking a Platform
+
+<!-- testing out the green section -->
+<div class="special-green-section" markdown="1">
+
+
 In order to submit to the [official leaderboards](https://www.speedrun.com/sms), you need to play on one of the supported platforms:
 
 - Nintendo Wii/Gamecube
@@ -27,6 +32,10 @@ These emulators are allowed for times slower than the threshold defined in the [
 [**Emulator Guide**](/sms-guide/setup/emu)
 
 There are small and large differences between the versions which will affect your speedruns. Find the full list of differences in our [version differences](https://smscommunity.github.io/sms-guide/game/versiondifferences) page.
+
+</div>
+<!-- end of the green div-->
+
 
 ## Leaderboard Verification
 In order to have your run verified on our official leaderboards, there are rules:

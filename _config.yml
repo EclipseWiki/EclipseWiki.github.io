@@ -5,7 +5,7 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: just-the-docs/just-the-docs
-color_scheme: CustomScheme
+color_scheme: dark
 
 
 url: https://just-the-docs.github.io
