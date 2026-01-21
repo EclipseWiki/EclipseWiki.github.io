@@ -5,7 +5,7 @@ layout: home
 
 # Super Mario Eclipse Wiki
 
-did this work
+how about now
 
 This is a wiki primarily dedicated to speedrunning, compiling resources and information to benefit the SME speedrun community.
 
