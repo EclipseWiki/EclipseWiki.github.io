@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hardware
-permalink: /Setup/hardware/
+permalink: /setup/hardware/
 parent: Setup
 nav_order: 1
 ---
