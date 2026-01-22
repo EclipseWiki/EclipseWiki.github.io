@@ -26,7 +26,7 @@ between 60 and 30 FPS.
 Nintendo Wii (Homebrew)
 This option is also avaliable however it is the less competitive category due to the Wii's limitations for  
 running Eclipse. Depending on the wii version you use there is performance issues with 60 FPS or choppy/buggy music
-audio making it less enjoyable. Regardless the 30FPS category is still available for people who do enjoy playing on  
+audio making it less enjoyable. Regardless the 30FPS category is still available for people who do enjoy playing on
 console or do not want to get involved with setting up Emulator.  
 
 
