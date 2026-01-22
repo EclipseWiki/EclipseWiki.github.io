@@ -32,7 +32,7 @@ console or do not want to get involved with setting up Emulator.
 Here are two guides [Homebrew guide1](https://wii.hacks.guide/) and [Homebrew guide2](https://docs.google.com/document/d/1GNHU6p33Fk0KB_iGcuga_PmUPf6dS5dPZIskDbtdU0M/edit?tab=t.0) 
 that you can read to set up a homebrewed Wii  
 Here is a video guide to setup [Homebrew](https://www.youtube.com/watch?v=dqIQXIPZhzM)
-This is a list of [**recommended hardware**](https://eclipsewiki.github.io/setup/hardware) to stream and record footage for Wii.
+This is a list of [**recommended hardware**](https://eclipsewiki.github.io/Setup/hardware) to stream and record footage for Wii.
 
 </div>
 <!-- end of the green div-->
