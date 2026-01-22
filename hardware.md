@@ -2,7 +2,7 @@
 layout: default
 title: Hardware
 permalink: /setup/hardware/
-parent: setup
+parent: Setup
 nav_order: 1
 ---
 # Recommended Hardware
