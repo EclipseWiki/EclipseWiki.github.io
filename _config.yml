@@ -7,13 +7,6 @@ plugins:
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
-
-
   collections:
   general:
     permalink: "/:collection/:path/"
@@ -33,3 +26,12 @@ just_the_docs:
       name: Game
     community:
       name: Community
+
+
+url: https://just-the-docs.github.io
+
+aux_links:
+  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+
+
+
