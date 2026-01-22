@@ -1,7 +1,9 @@
 title: Eclipse Guide
-theme: just-the-docs
+# Remove the standard theme line to avoid conflicts
+remote_theme: just-the-docs/just-the-docs
+
 plugins:
   - jekyll-remote-theme
 
-remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
+nav_enabled: true  # Explicitly enable the sidebar
