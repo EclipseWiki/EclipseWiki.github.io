@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Setup
-permalink: /setup/
+permalink: /Setup/
 nav_order: 2
 has_children: true
 has_toc: true
