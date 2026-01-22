@@ -4,8 +4,6 @@ title: Movement
 permalink: /tutorials/movement/
 parent: Tutorials
 nav_order: 1
-has_children: false
-has_toc: false
 ---
 {: .no_toc }
 
