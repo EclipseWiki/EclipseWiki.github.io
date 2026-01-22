@@ -24,11 +24,11 @@ An index of useful software.
 A sheet to get IL times posted. Mainly used as a resource to brainstorm ideas and create new routes/strats for every stage with every character.
 
 1. **[Categories](https://smscommunity.github.io/sms-guide/categories/)**  
-Overview of category definitions.
+Overview of category definitions. (Still SMS)
 2. **[Shines](https://smscommunity.github.io/sms-guide/shines/)**  
 Pages detailing strats for individual shines (work in progress)
 3. **[Tutorials](https://smscommunity.github.io/sms-guide/tutorials/)**  
-An index of mostly external tutorials for various stages or other useful info.
+An index of mostly external tutorials for various stages or other useful info. (Still SMS)
 4. **[Routes](https://docs.google.com/spreadsheets/d/1AwBH79Em9fbS3uLHBSsARLJsdRBJ1P1nSRT_scGffeg/edit?gid=2062146787#gid=2062146787)**  
 Alternative no CSS any% routes.
 5. **[Techniques](https://eclipsewiki.github.io/tutorials/movement/)**  
@@ -39,4 +39,4 @@ Collection of speedrun skips and tutorials on how to perform them to the best of
 1. **[WR History](https://smscommunity.github.io/sms-guide/community/wrhistory/)**  
 Complete world record history of the main categories. (Someone needs to document some any% WRs for Eclipse)
 2. **[Leaderboards](https://www.speedrun.com/super_mario_eclipse)**  
-Links to leaderboards. CHANGED
+Links to the Speedrun.com leaderboard for Eclipse.
