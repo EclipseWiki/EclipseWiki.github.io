@@ -2,7 +2,7 @@
 layout: default
 title: Movement
 permalink: /tutorials/movement/
-parent: tutorials
+parent: Tutorials
 nav_order: 1
 has_children: false
 has_toc: false
