@@ -6,16 +6,6 @@ plugins:
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
 
-just_the_docs:
-  collections:
-    general:
-      name: General
-    game:
-      name: Game
-    community:
-      name: Community
-
-
 url: https://just-the-docs.github.io
 
 aux_links:
