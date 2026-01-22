@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Movement
-permalink: /movement/
+permalink: /tutorials/movement/
 nav_order: 1
 has_children: false
 has_toc: false
