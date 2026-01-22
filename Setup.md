@@ -8,6 +8,7 @@ has_toc: true
 ---
 
 # Setup
+{: .no_toc }
 
 ## Picking a Platform
 <!-- testing out the green section -->
