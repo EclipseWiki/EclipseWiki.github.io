@@ -6,7 +6,7 @@ nav_order: 3
 has_children: true
 ---
 
-# Tutorials
+# hello
 {:no_toc}
 
 Index of external links to game tutorials.
