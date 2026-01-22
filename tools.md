@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Tools
-permalink: /tools
+permalink: /setup/tools/
+parent: Setup
 nav_order: 2
 ---
 
@@ -14,15 +15,20 @@ Index of external links to useful software.
 {:toc}
 
 ## Game Tools
-Tools used to play and practice SMS.
+Tools used to play and practice SME both for emulator and console.
+
+### Emulator
+[Dolphin Emulator](https://dolphin-emu.org/download/){: .btn }  
+The only emulator used to play SME on PC. *Just use the latest beta version;*
 
 ### Guides  
-[Wii Homebrew](https://wii.guide){: .btn }  
+[Wii Homebrew1](https://wii.guide){: .btn } [Wii Homebrew2](https://docs.google.com/document/d/1GNHU6p33Fk0KB_iGcuga_PmUPf6dS5dPZIskDbtdU0M/edit?tab=t.0){: .btn } [Home Brew Video Guide](https://www.youtube.com/watch?v=dqIQXIPZhzM){: .btn }
 Full homebrew tutorial complete with requisite software. *It's recommended to complete every step – HackMii, BootMii, NAND Backup, Priiloader, cIOSes.*
 
 [SMS Practice Codes](https://gct.zint.ch){: .btn }  
 Cheat codes for Wii and emulator used for practice and to do IL speedruns.
 
+Caution: These codes were made for Mario Sunshine some do not function with Eclipse.
 [Practice Codes Guide](https://gct.zint.ch/guide.html){: .btn }  
 Full tutorial for setting up practice codes.
 
@@ -41,28 +47,20 @@ Game loader app required to run PAL SMS at 480p, and to run cheat codes with acc
 Memory card and save manager.  
 
 [SmashScope](https://compendium.dol-003.info/smashscope){: .btn }  
-Controller input visualizer.  
-
-### Emulator
-[Dolphin Emulator](https://dolphin-emu.org/download/){: .btn }  
-[\[Settings Guide\]](https://smscommunity.github.io/sms-guide/setup/emu)  
-The only emulator used to play SMS on PC. *Use the latest beta version; never use the stable version.*  
+Controller input visualizer.   
 
 ## Speedrun Tools
 Tools used during speedruns.
 
 ### Timers
 [LiveSplit](https://livesplit.org/downloads/){: .btn }  
-Standard speedrun timer.
-
-[AutoSplit](https://github.com/Toufool/Auto-Split/releases/){: .btn }  
-Standard visual autosplitter for LiveSplit; ask in the Discord for split images and setup info. To get consistent window sizes when capturing windows in AutoSplit, use [Sizer](http://www.brianapps.net/sizer/). Video tutorial [here](https://youtu.be/Egink_DaBiE).
+Standard speedrun timer which is helpful for times compared to Eclipse's IGT.
 
 ### Streaming Software
 [OBS](https://obsproject.com/download){: .btn }  
 Standard streaming software.
 **OBS Settings**  
-- Frame rate should be set to either 29.97 or 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
+- Frame rate should be set to 59.94 to reduce dropped/repeated frames. *Not 30/60fps*  
 - Multiple audio tracks are useful in seperating discord, microphone, or music audio from the gameplay audio. [Tutorial Here](https://www.youtube.com/watch?v=h1MjrylqbTc).  
 - Check out the tutorial on [Replay Buffer](https://smscommunity.github.io/sms-guide/info/video-tools/#recording-short-videos) to avoid continuously recording when practicing or doing ILs.  
 
@@ -71,14 +69,16 @@ Audio plugin host for microphone sound processing; example plugins [here](https:
 
 ### Input Displays
 #### Software
+[m-overlay](https://github.com/bkacjios/m-overlay){: .btn }  
+Input display sofware for use with Dolphin emulator; Eclipse needs a bit of file tuning for this to work.
+A guide explaining how to do that is [here](https://www.youtube.com/watch?v=pL29Qo5KBrY).
+
+
 [RetroSpy](https://github.com/retrospy/RetroSpy/releases/latest){: .btn }  
-Input display software for used with GameCube input display hardware, fork of NintendoSpy that fixes multiple issues..
+Input display software for used with GameCube input display hardware, fork of NintendoSpy that fixes multiple issues.
 
 [Tron-Style GameCube Skins](https://drive.google.com/drive/folders/1y-pLcrQwD9EqCu9EH1ZFJZDNtTmmrbhR){: .btn }  
 Standard skins for RetroSpy/NintendoSpy made by Aliensqueakytoy.  
-
-[m-overlay](https://github.com/bkacjios/m-overlay){: .btn }  
-Input display sofware for use with Dolphin emulator; works out-of-the-box.  
 
 #### Hardware
 [Electromodder ESS Adapter](https://www.electromodder.co.uk/wii_vc_adapter){: .btn }  
@@ -118,9 +118,6 @@ Tools for analyzing speedruns.
 
 [therun.gg](https://therun.gg/){: .btn }  
 Split hosting website that lets you compare segments, combine splits to see best world segments, see extra details, and host races.  
-
-[Any% Best World Total Calculator](https://zeldocto.github.io/worldcalc/){: .btn }  
-A tool by Zeldocto to convert your best world segments ([obtained from therun.gg](https://smscommunity.github.io/sms-guide/setup/bestworlds/)) into a total time.
 
 [Petey Pattern Tool](https://naosanpoyo.github.io/PeteyPattern/){: .btn }  
 A tool by naosan to analyze the probability of a Bianco 5 Petey pattern.
