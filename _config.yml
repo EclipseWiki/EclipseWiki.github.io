@@ -1,22 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Eclipse Guide
 theme: just-the-docs
 plugins:
   - jekyll-remote-theme
 
 remote_theme: just-the-docs/just-the-docs
 color_scheme: dark
-
-  collections:
-  general:
-    permalink: "/:collection/:path/"
-    output: true
-  game:
-    permalink: "/:collection/:path/"
-    output: true
-  community:
-    permalink: "/:collection/:path/"
-    output: true
 
 just_the_docs:
   collections:
