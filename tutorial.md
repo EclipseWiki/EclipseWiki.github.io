@@ -11,56 +11,11 @@ has_children: true
 
 Index of external links to game tutorials.
 
-## Full-Game (Recommended)
-This is a set of all-in-one video playlists and shine-breakdown spreadsheets covering the whole game (Any% or 120 Shines). These ones are recommended when starting.
 
-**[IL/RTA Strat Spreadsheet](https://sunmar.io/il)**  
-Individual level google spreadsheet that has a RTA Strats tab on the bottom, a great place to compare slower and faster strategies.
-
-**[Any% (No ACE) Tutorial Playlist (Samura1man \| 2019/09/13)](https://www.youtube.com/playlist?list=PLh58B1tN_ac1c6-J3j1wu9dmkRJuFcOn1)**  
-Best place to start, slightly outdated.
-
-**[Any% (No ACE) Tutorial Playlist (GrandStarYoshi | 2015/02–07)](https://www.youtube.com/playlist?list=PLwXgjFebHpGDP_H0_YsNtkWtvXl2CkAn_)**  
-Full game; deprecated form of EYG (2YG).
-
-**[120 Shines Tutorial Playlist (Switchmaster64 \| 2021/01/02)](https://www.youtube.com/playlist?list=PLvopRyTdDkBZTFJLtl3g5SknLBNuCLEws)**  
-Best place to start; assumes knowledge of the Any% tutorial playlist.
-
-**[All Shines Index (Milk, Dutchj + others \| 2015/07/26 – 2016/02/06)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1779352269)**  
-A good but old set of strats, often better alternatives to the ones in the Any% tutorial playlist.
-
-**ACE [Beginner](https://www.youtube.com/watch?v=1eYZuGjuSkw) and [Advanced](https://www.youtube.com/watch?v=b9bKwyUDX2Q) Video Tutorials (JTown2909 \| 2025/01/22**  
-In-depth video tutorials on how to preform ACE speedruns for both beginner and advanced routes.
-
-## Full-Game (Backup)
-Like the previous section, but more useful for alternative takes if you get stuck. Note that the older the tutorial, the more likely things are to be out-of-date.
-
-### Video Guides
-**[Any% (No ACE) Intermediate Tutorial Video (JJsrl | 2017/12/09)](https://www.youtube.com/watch?v=sLG_KERLyhQ)**  
-From start to after Pianta 2.
-
-**[Any% (No ACE) Beginner Tutorial Video (Dutchj | 2016/06/13)](https://www.youtube.com/watch?v=XERf3paNpTQ)**  
-From start to after Gelato 7.
-
-**[Any% (No ACE) Tutorial Video (Samura1man | 2014/07/11)](https://www.youtube.com/watch?v=OLMOfh8wWEU)**  
-Full game except Airstrip; missing EYG.
-
-### Spreadsheet Indices
-**[Any% (No ACE) Shines Index (Metacor, EquivocalGenius, Nebuladiv \| 2020/06)](https://docs.google.com/spreadsheets/d/1lS-6raJt_Dws8e5NvX3wXOTf1DEebYzU7IAF8ctT108/)**  
-A precursor to the Any% shines list with most of the same content + some other useful bits.
-
-**[Any% (No ACE) Shines Guide (mwolfe11 \| 2018/05–07)](http://learnsunshine.com/)**  
-"LearnSunshine" – has a lot of prose.
-
-**[Any% (No ACE) Shines Index – 2014 (Milk, Dutchj + others \| pre–2015/07/26)](https://docs.google.com/spreadsheets/d/19wxG81nHkHlGVPRJZJKp8VcxSeGbRZnKmR9lN7jJSwM/edit#gid=1905484894)**  
-Probably too old to be useful.
-
-**[Any% (No ACE) Shines Index – 2013 (Toufool31 ft. Samura1man, Hiddenpower13 \| 2013)](https://docs.google.com/spreadsheets/d/1isgE_xwTIL0T4nZ3bA4af0aCJhTOv7SPFATB4mZcndg/edit#gid=0)**  
-Almost certainly too old to be useful. 
-
-## Individual Shines/Generic
-Miscellaneous tutorials for individual shines or general things like movement. Covering different strats per sorted by shine and age; the older the tutorial, the more likely things are to be out-of-date.
-
+These are SMS tutorials however they still do an amazing job at covering base SMS mechanics and skips  
+Over time we will fill out and replace these to pretain more to SME instead however this is a great starting point  
+Keep in mind that since these are SMS tutorials, they may or may not be useful for Eclipse some examples  
+of these would include things like the Honey skip tutorials, EYG tutorials, and rocket storage.  
 **Movement**  
 
 | Topic + Link | Video Author   | Date       |
