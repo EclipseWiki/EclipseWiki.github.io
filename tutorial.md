@@ -18,8 +18,9 @@ Keep in mind that since these are SMS tutorials, they may or may not be useful f
 of these would include things like the Honey skip tutorials, EYG tutorials, and rocket storage.  
 **Movement**  
 
+  
 | Topic + Link | Video Author   | Date       |
-|--------------|---------------|------------|
+| --- | --- | --- |
 | [**Infinite Wallkicks**](https://www.youtube.com/watch?v=4N0fQFowtV8) | AverageTrey | 2023/10/25 |
 | [**The Many Types of Spinjumps**](https://www.youtube.com/watch?v=zlG8El1UUVc) | AverageTrey | 2021/10/11 |
 | [**Buffered Spinjumps**](https://www.youtube.com/watch?v=11XgrGZErAA) | Dutchj | 2017/05/16 |
